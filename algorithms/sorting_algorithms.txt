@@ -3,3 +3,4 @@ Merge Sort
 Insertion Sort
 Shell Sort
 Selection Sort
+QuickSort
